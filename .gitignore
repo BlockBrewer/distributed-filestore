@@ -1,0 +1,9 @@
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+main
+*.log
+.env
+postgres_data/
